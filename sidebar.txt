@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nqq:home|Door43 (nqq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nqq|d43-nqq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nqq/archive/master.zip|d43-nqq.zip]]
+
+**Recent Changes**
+{{changes>ns = nqq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nqq|Ethnologue data]]
+
